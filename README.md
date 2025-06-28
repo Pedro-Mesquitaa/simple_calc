@@ -11,7 +11,7 @@ Uma calculadora simples desenvolvida com Flutter, com suporte a tema claro/escur
 - ➕➖✖️➗ Suporte a operações com precedência (`+`, `-`, `x`, `÷`)
 - 🌗 Alternância entre tema claro e escuro
 - 🕘 Histórico persistente de operações
-- 🗑️ Limpeza de histórico com confirmação
+- 🗑️ Limpeza de histórico
 
 ---
 
